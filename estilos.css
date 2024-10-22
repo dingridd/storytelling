@@ -1,0 +1,154 @@
+@charset "utf-8";
+
+*{
+	margin: 0px;	
+	padding: 0px;
+}
+
+nav {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+	line-height: 60px;	
+}
+
+ul li {
+    display: inline-block;
+    margin: 0px 60px;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    font-family: Roboto;
+    font-size: medium;
+}
+
+#contenedor{
+	width: 1366px;
+	height: 2534.95px;
+	background: #fdf1dd
+}
+
+.header {
+	width: 1366px;
+	height: 125px;
+	background: #808080;
+}
+
+.seccion1 {
+	width: 308.6px;
+	height: 125px;
+	background: #fdf1dd;
+	float: left;	
+}
+
+.header .seccion1 img {
+    padding-top: 25px;
+    padding-left: 72px;
+}
+
+.seccion2 {
+    width: 574.9px;
+    height: 125px;
+    background-color: #FDF1DD;
+    float: left;
+}
+
+.seccion3 {
+    width: 482.5px;
+    height: 125px;
+    background: #fdf1dd;
+    float: left;
+    text-align: center;
+    line-height: 125px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bolder;
+    color: #4FB2C1;	
+}
+
+.seccion4 {
+    width: 1366px;
+    height: 2159.35px;
+    background: #fdf1dd;
+    font-family: Roboto;
+}
+
+.footer {
+    width: 1366px;
+    height: 200px;
+    background: #4fb2c1;
+    float: none;
+}
+
+.seccion5 {
+    width: 310.5px;
+    height: 180px;
+    background: #4fb2c1;
+    float: inherit;
+    padding-top: 25px;
+    padding-left: 25px;
+    text-align: center;
+} 
+
+.seccion6 {
+    width: 1056px;
+    height: 180px;
+    background: #4fb2c1;
+    float: right;
+    padding-top: 25px;
+    padding-left: 25px;
+    text-align: center;
+    line-height: 180px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+	
+
+}
+#contenedor .seccion4 h1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 0px;
+}
+#contenedor .seccion4 p {
+    margin-left: 140px;
+    margin-right: 80px;
+    margin-top: 10px;
+}
+#contenedor .seccion4 img {
+    margin-left: 460px;
+    margin-top: 25px;
+}
+
+#contenedor .seccion4 h2 {
+    margin-left: 80px;
+    margin-top: 40px;
+    text-align: center;
+}
+.seccion4 ul li {
+    margin-left: 155px;
+    margin-right: 70px;
+}
+#contenedor .seccion4 a {
+    padding-left: 212px;
+    padding-top: 12px;
+}
+.seccion7 {
+    margin-top: 15px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: small;
+	
+}
+.seccion5 .seccion7 img {
+    margin-top: 9px;
+    margin-right: 6px;
+    margin-left: 3px;
+}
